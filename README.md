@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Puddles&size=40&pause=1000&color=00FF44&center=true&random=false&width=1000&height=300&lines=Hey%F0%9F%91%8B!+I'm+Andrea+Ferrero!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <!--
 **ferredev/ferredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
