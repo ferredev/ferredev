@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-profile-trophy.vercel.app/?username=ferredev" />
+
 <!--
 **ferredev/ferredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
